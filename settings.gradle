@@ -1,0 +1,2 @@
+rootProject.name = "MRH Account"
+include ':app'
